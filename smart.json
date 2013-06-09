@@ -4,7 +4,7 @@
   "homepage": "https://github.com/hipertracker/meteor-iced-coffee-script",
   "author": "Jaroslaw Zabiello <hipertracker@gmail.com> (http://zabiello.com)",
   "version": "0.0.1",
-  "git": "git://github.com/hipertracker/meteor-iced-coffee-script.git",
+  "git": "https://github.com/hipertracker/meteor-iced-coffee-script.git",
   "packages" : {}
 }
 
