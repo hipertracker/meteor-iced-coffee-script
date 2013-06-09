@@ -3,7 +3,7 @@
   "description": "IcedCoffeeScript repackaged for Meteor (http://maxtaco.github.io/coffee-script/)",
   "homepage": "https://github.com/hipertracker/meteor-iced-coffee-script",
   "author": "Jaroslaw Zabiello <hipertracker@gmail.com> (http://zabiello.com)",
-  "version": "0.1",
+  "version": "0.0.1",
   "git": "git://github.com/hipertracker/meteor-iced-coffee-script.git",
   "packages" : {}
 }
