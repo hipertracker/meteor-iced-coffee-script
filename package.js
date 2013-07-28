@@ -1,7 +1,7 @@
 Package.describe({summary: "CoffeeScript with better steamline asynchronous control flow (http://maxtaco.github.io/coffee-script/)"});
 
 Npm.depends({
-  'iced-coffee-script': '1.6.2d'
+  'iced-coffee-script': '1.6.3-e'
 });
 
 var iced_coffeescript_handler = function (bundle, source_path, serve_path, where) {
