@@ -8,6 +8,7 @@ var handler = function (compileStep) {
 
   options = {
     bare: true,
+    runtime: 'none',
     filename: compileStep.inputPath,
     literate: path.extname(compileStep.inputPath) === '.litcoffee'
   };
