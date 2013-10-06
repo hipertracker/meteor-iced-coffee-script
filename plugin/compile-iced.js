@@ -31,3 +31,4 @@ var handler = function (compileStep) {
 
 Plugin.registerSourceHandler('coffee', handler);
 Plugin.registerSourceHandler('litcoffee', handler);
+Plugin.registerSourceHandler('iced', handler);
